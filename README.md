@@ -25,7 +25,7 @@ Börsdata update Stockprices and KPIs once a day.
 The API only support end-day stockprice that Börsdata recieves when the market is closed. 
 The stockdata and KPIs is normaly fully updated after 20:00 UTC time.
 -	Only get the data for the companies you need. (Reduce our server load)
--	Call API after 20:00 to get today latest data. (Or you will get yesterday data)
+-	Call API after 20:00 UTC to get today latest data. (Or you will get yesterday data)
 -	Respect the Ratelimit. If you get 403, then wait before calling again.
 
 ## Issues Tracking
