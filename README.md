@@ -7,8 +7,10 @@
 > Wrong URL!!
 
 ## Documentation
-1. You can read about the API on our [info page](https://borsdatatest.se/info/api/api_info)
+1. We use this Github as the main info page for programmers. Check the Wiki.
 2. The API calls is documented [here with swagger](https://bdapidev.azurewebsites.net/swagger/index.html)
+3. You can read about the API on our [info page](https://borsdatatest.se/info/api/api_info)
+
 > WRONG URL!! English and PROD
 
 ## Code samples
