@@ -2,16 +2,13 @@
 ## This repository contains information about Börsdata API. 
  
 ## Getting started
-1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/direct)
-2. Then you can download one of our sample projects and start coding.
-> Wrong URL!!
+1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/api)
+2. Then you can download our sample projects from GitHub and start coding.
 
 ## Documentation
 1. We use this Github as the main info page for programmers. Check the Wiki.
-2. The API calls is documented [here with swagger](https://bdapidev.azurewebsites.net/swagger/index.html)
-3. You can read about the API on our [info page](https://borsdatatest.se/info/api/api_info)
-
-> WRONG URL!! English and PROD
+2. The API calls is documented [here with swagger](https://apidoc.borsdata.se/swagger/index.html)
+3. You can read about the API on our [info page](https://borsdata.se/info/api/api_info)
 
 
 ## Issues Tracking
