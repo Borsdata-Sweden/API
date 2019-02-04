@@ -6,10 +6,11 @@
 2. Then you can download our sample projects from GitHub and start coding.
 
 ## Documentation
-1. We use this Github as the main info page for programmers. Check the Wiki.
-2. The API calls is documented [here with swagger](https://apidoc.borsdata.se/swagger/index.html)
-3. You can read about the API on our [info page](https://borsdata.se/info/api/api_info)
-
+1. We use this Github as the main info page for programmers. 
+2. Most info is in the [Wiki](https://github.com/Borsdata-Sweden/API/wiki).
+3. The API calls is documented [here with swagger](https://apidoc.borsdata.se/swagger/index.html)
+4. You can read about the API on our [info page](https://borsdata.se/info/api/api_info)
+5. Try our [c# sample client](https://github.com/Borsdata-Sweden/API-CSharp-Client).
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
