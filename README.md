@@ -28,3 +28,15 @@ Follow us on [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=BO
 Börsdata and the information contained herein is not intended to be a source of advice or credit analysis with respect to the material presented, and the information and/or documents contained in this website do not constitute investment advice.  
 The user is responsible for the risk and should therefore acquire information about the terms that apply to trade with such instruments, and about the qualities of the instruments. Placements or other positions in financial instruments such as stock is done at your own risk. <br> Börsdata cannot in any way be held responsible for any investment decisions that result from the financial information on the website.  
 Always do your own Research. 
+
+
+# Updates
+2019-04-04  
+-Add new API call to get list of Last Stockprice for all Instruments.  
+(No need to call all Instruments to get last stockprices on daily basis. One call insted of +1600)
+  
+-Add new API call to get all reports for one Instrument.  
+(To get Year, R12, Quarter Reports you only need one call)
+
+
+
