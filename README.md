@@ -33,7 +33,7 @@ Always do your own Research.
 # Updates
 2019-04-04  
 -Add new API call to get list of Last Stockprice for all Instruments.  
-(No need to call all Instruments to get last stockprices on daily basis. One call insted of +1600)
+(No need to call all Instruments to get last stockprices on daily basis. One call instead of +1600)
   
 -Add new API call to get all reports for one Instrument.  
 (To get Year, R12, Quarter Reports you only need one call)
