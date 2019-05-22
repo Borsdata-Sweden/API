@@ -12,13 +12,18 @@
 4. You can read about the API on our [info page](https://borsdata.se/info/api/api_info)
 5. Try our [c# sample client](https://github.com/Borsdata-Sweden/API-CSharp-Client).
 
+
 ## Rate Limits
 The API is rate limited to 2 calls pr.second.  
 You will recieve a 429 when exceding the rate limit.
 
-
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
+
+## Sample Code
+- [C# API Lib with sample code](https://github.com/Borsdata-Sweden/API-CSharp-Client).  
+- [Python Lib with sample code](https://github.com/JoelRoxell/borsdata-sdk).   
+(Special thanks to Joel Roxell for Python API lib!)
 
 ## Stay Tuned
 Follow us on [Twitter](https://twitter.com/search?f=tweets&vertical=default&q=BORSDATA%20OR%2040procent20ar&src=savs) and [Facebook](https://www.facebook.com/borsdata.se/) to receive updates.
