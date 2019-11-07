@@ -15,7 +15,11 @@
 
 ## Rate Limits
 The API is rate limited to 2 calls pr.second.  
-You will recieve a 429 when exceding the rate limit.
+You will recieve a 429 when exceding the rate limit.  
+
+There is no set max limit of api calls, but you should try not to exceed 10K api calls per 24h.  
+It's ok to do more api calls occasionally, but not every day.  
+Please try to stay below 10K per day.
 
 ## Issues Tracking
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
