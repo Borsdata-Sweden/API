@@ -39,13 +39,17 @@ The user is responsible for the risk and should therefore acquire information ab
 Always do your own Research. 
 
 
-# Updates
-2019-04-04  
+## Updates
+# 2019-04-04  
 -Add new API call to get list of Last Stockprice for all Instruments.  
 (No need to call all Instruments to get last stockprices on daily basis. One call instead of +1600)
   
 -Add new API call to get all reports for one Instrument.  
 (To get Year, R12, Quarter Reports you only need one call)
 
+# 2020-04-21
+- Add maxCount to get up to 20 year stockprice, 20 year reports and 40 R12&Quarter reports.
+- Add report/kpi meta data for translations.
+- Add stockprices/date to get all stockprice for a specific date.
 
 
