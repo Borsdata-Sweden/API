@@ -51,6 +51,7 @@ Always do your own Research.
 
 ### 2020-04-21
 - Add maxCount to get up to 20 year stockprice, 20 year reports and 40 R12&Quarter reports.
+[Read more about &maxCount](https://github.com/Borsdata-Sweden/API/wiki/20-year-history)
 - Add report/kpi meta data for translations.
 - Add stockprices/date to get all stockprice for a specific date.
 
