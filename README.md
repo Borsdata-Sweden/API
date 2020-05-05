@@ -14,8 +14,10 @@
 
 
 ## Rate Limits
-The API is rate limited to 2 calls pr.second.  
+The API is rate limited to 100 calls in 10 second.  
+
 You will recieve a 429 when exceding the rate limit.  
+Check header Retry-After to see time to wait before next call. 
 
 There is no set max limit of api calls, but you should try not to exceed 10K api calls per 24h.  
 It's ok to do more api calls occasionally, but not every day.  
