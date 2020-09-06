@@ -30,6 +30,8 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - [C# API Lib with sample code](https://github.com/Borsdata-Sweden/API-CSharp-Client).  
 - [Python Lib with sample code](https://github.com/JoelRoxell/borsdata-sdk).   
 (3d-party code. Special thanks to Joel Roxell for Python API lib!)
+- [Börsdata API i R](https://github.com/JakobJohannesson/borsdata)   
+(3d-party code. Special thanks to Jakob Johannesson for R API lib!)   
 - [Postman collection](https://borsdata.blob.core.windows.net/uploadfile/BD-API_SERVICE_V1.postman_collection.json) 
 
 
