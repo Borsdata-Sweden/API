@@ -65,4 +65,8 @@ Always do your own Research.
 - Add report/kpi meta data for translations.
 - Add stockprices/date to get all stockprice for a specific date.
 
+### 2020-10-19
+- Add 4 new data to Report
+
+
 
