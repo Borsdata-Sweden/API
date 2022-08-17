@@ -35,6 +35,8 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - [Python Lib with sample code v2 (Not all functions)](https://github.com/JoelRoxell/borsdata-sdk).   
 (3d-party code. Special thanks to Joel Roxell for Python API lib!)   
 
+- [Python Lib with sample code v3 (Not all functions)](https://github.com/reinew/borsdata-api). 
+
 - [Börsdata API i R](https://github.com/JakobJohannesson/borsdata)   
 (3d-party code. Special thanks to Jakob Johannesson for R API lib!)     
 
