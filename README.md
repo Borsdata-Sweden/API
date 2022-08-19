@@ -36,6 +36,7 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 (3d-party code. Special thanks to Joel Roxell for Python API lib!)   
 
 - [PHP Lib with sample code](https://github.com/reinew/borsdata-api). 
+(3d-party code. Special thanks to Reinew for PhP API lib! )
 
 - [Börsdata API i R](https://github.com/JakobJohannesson/borsdata)   
 (3d-party code. Special thanks to Jakob Johannesson for R API lib!)     
