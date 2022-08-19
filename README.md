@@ -70,5 +70,8 @@ Always do your own Research.
 ### 2020-10-19
 - Add 4 new data to Report
 
+### 2022-08-17
+- Added 3 new Array functions to get max 50 instruments in one call.
+- Reports, Stockprice, Kpis history
 
 
