@@ -5,6 +5,12 @@
 1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/api)
 2. Then you can download our sample projects from GitHub and start coding.
 
+## Nordic and Global data
+From Sep 2022 we provide Global data in API.  
+Global data is only available for Pro+ members.  
+Read more about [Global Instruments](https://github.com/Borsdata-Sweden/API/wiki/Global-Instruments)
+
+
 ## Documentation
 1. We use this Github as the main info page for programmers. 
 2. Most info is in the [Wiki](https://github.com/Borsdata-Sweden/API/wiki).
@@ -75,4 +81,5 @@ Always do your own Research.
 - Added 3 new Array functions to get max 50 instruments in one call.
 - Reports, Stockprice, Kpis history
 
-
+### 2022-09-08
+- Add Global instruments to API.
