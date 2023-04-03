@@ -48,6 +48,7 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 (3d-party code. Special thanks to Jakob Johannesson for R API lib!)     
 
 - [Python Lib - matplotlib samples](https://github.com/TapeReaderJoe/BorsdataAPI)    
+[Python Lib - matplotlib docs](https://github.com/TapeReaderJoe/BorsdataAPI/blob/notebooks/borsdata/breadth_indicators.ipynb)    
 (3d-party code)     
 
 - [Postman collection](https://borsdata.se/meta/shared/BD-API_SERVICE_V1.postman_collection.json)   
