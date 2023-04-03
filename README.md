@@ -47,7 +47,7 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 - [Börsdata API i R](https://github.com/JakobJohannesson/borsdata)    
 (3d-party code. Special thanks to Jakob Johannesson for R API lib!)     
 
-- [Python Lib](https://github.com/TapeReaderJoe/BorsdataAPI)    
+- [Python Lib - matplotlib samples](https://github.com/TapeReaderJoe/BorsdataAPI)    
 (3d-party code)     
 
 - [Postman collection](https://borsdata.se/meta/shared/BD-API_SERVICE_V1.postman_collection.json)   
