@@ -90,3 +90,13 @@ Always do your own Research.
 
 ### 2022-09-08
 - Add Global instruments to API.
+  
+### 2023-09-14
+Add new functions   
+- Instrument description 
+- Report calendar 
+- Dividend calendar 
+- Holdings Insider (Pro+) 
+- Holdings Shorts (Pro+)
+- Holdings Buyback (Pro+)
+
