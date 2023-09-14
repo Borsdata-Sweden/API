@@ -100,3 +100,5 @@ Add new functions
 - Holdings Shorts (Pro+)
 - Holdings Buyback (Pro+)
 
+[Calendar](https://github.com/Borsdata-Sweden/API/wiki/Calendar)   
+[Holdings](https://github.com/Borsdata-Sweden/API/wiki/Calendar](https://github.com/Borsdata-Sweden/API/wiki/Holdings)https://github.com/Borsdata-Sweden/API/wiki/Holdings) 
