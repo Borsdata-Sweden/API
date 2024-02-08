@@ -102,3 +102,9 @@ Add new functions
 
 [Calendar](https://github.com/Borsdata-Sweden/API/wiki/Calendar)   
 [Holdings](https://github.com/Borsdata-Sweden/API/wiki/Calendar](https://github.com/Borsdata-Sweden/API/wiki/Holdings)https://github.com/Borsdata-Sweden/API/wiki/Holdings) 
+
+### 2024-02-06
+Added two new values to /Instruments
+- StockPriceCurrency
+- ReportCurrency
+
