@@ -108,3 +108,7 @@ Added two new values to /Instruments
 - StockPriceCurrency
 - ReportCurrency
 
+Report data.   
+- Added &original=1 to get original report data currency.
+
+
