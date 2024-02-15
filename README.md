@@ -111,4 +111,9 @@ Added two new values to /Instruments
 Report data.   
 - Added &original=1 to get original report data currency.
 
+### 2024-02-05
+- Add &from parameter to StockSplit.   
+You can now receive all stocksplit history 
+
+
 
