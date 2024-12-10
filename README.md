@@ -1,6 +1,16 @@
 # Börsdata API
 ## This repository contains information about Börsdata API. 
- 
+
+## Important changes from 1 Feb-2025
+
+The REST-API to get Json data is moved from PRO to PRO+.    
+From 1Feb 2025 you will not be able to use a new PRO membershio to call REST-API.   
+Existing PRO members are automaticly moved to PRO+ and will continue to get data from API until the subscription ends.
+
+Excel plugin and Google sheets is not effected.
+[Read more](https://borsdata.se/en/info/api/api_page)
+
+
 ## Getting started
 1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/api)
 2. Then you can download our sample projects from GitHub and start coding.
