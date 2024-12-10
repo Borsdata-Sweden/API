@@ -1,5 +1,5 @@
-# Börsdata API
-## This repository contains information about Börsdata API. 
+# Börsdata REST-API
+## This repository contains information about Börsdata REST-API. 
 
 ## Important changes from 1 Feb-2025
 
