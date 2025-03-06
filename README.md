@@ -43,7 +43,10 @@ Please try to stay below 10K per day.
 We use GitHub's Issues tracker for our project. Feel free to create bug reports and features requests. Make sure to read the documentation before asking questions - this will avoid repeated questions, leaving us more time for developing the library.
 
 ## Sample Code
-- [C# API Lib with sample code](https://github.com/Borsdata-Sweden/API-CSharp-Client).    
+- [C# API Lib with sample code](https://github.com/Borsdata-Sweden/API-CSharp-Client).
+
+- [Python Lib with full code](https://github.com/alexwox/Modern-Borsdata-Client/tree/main)    
+(3d-party code. Special thanks to alexwox)
 
 - [Python Lib with sample code](https://github.com/TapeReaderJoe/BorsdataAPI)   
 (3d-party code. Special thanks to Johan for full Python lib!)    
