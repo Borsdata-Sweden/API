@@ -10,6 +10,15 @@ Existing PRO members are automaticly moved to PRO+ and will continue to get data
 Excel plugin and Google sheets is not effected.
 [Read more](https://borsdata.se/en/info/api/api_page)
 
+## About AI and Support
+
+We love AI, but we often receive questions where AI models generate incorrect API calls.
+As a developer, it's your responsibility to ensure that the API calls are accurate and that all parameters follow our documentation.
+
+To assist you better, we always need the full API URL.
+Please verify the API URL using Swagger to check for any differences.
+Also, make sure the parameters are correct according to our GitHub documentation.
+
 
 ## Getting started
 1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/api)
