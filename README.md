@@ -12,12 +12,13 @@ Excel plugin and Google sheets is not effected.
 
 ## About AI and Support
 
-We love AI, but we often receive questions where AI models generate incorrect API calls.
+We love AI, but we often receive questions where AI models generate incorrect API calls.   
 As a developer, it's your responsibility to ensure that the API calls are accurate and that all parameters follow our documentation.
 
-To assist you better, we always need the full API URL.
-Please verify the API URL using Swagger to check for any differences.
-Also, make sure the parameters are correct according to our GitHub documentation.
+To assist you better: 
+- We always need the full API URL.
+- Please verify the API URL using Swagger to check for any differences.
+- Also, make sure the parameters are correct according to our GitHub documentation.
 
 
 ## Getting started
