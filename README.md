@@ -55,6 +55,8 @@ We use GitHub's Issues tracker for our project. Feel free to create bug reports 
 ## Sample Code
 - [C# API Lib with sample code](https://github.com/Borsdata-Sweden/API-CSharp-Client).
 
+- [C# Winform with Claude AI](https://github.com/Ssveaj/StockMarketAgent)
+
 - [Python Lib with full code](https://github.com/alexwox/Modern-Borsdata-Client/tree/main)    
 (3d-party code. Special thanks to alexwox)
 
