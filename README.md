@@ -20,6 +20,14 @@ To assist you better:
 - Please verify the API URL using Swagger to check for any differences.
 - Also, make sure the parameters are correct according to our GitHub documentation.
 
+## API KEY
+API KEY must be added as Querystring to URL. ?authKey=APIKEY   
+(Not in Header that many AI tools like to sugest.)    
+If ?authKey={KEY} is missing in URL you get a 403 block from firewall.   
+
+### Correct URL that you can test in webbrowser with your APIKEY.
+https://apiservice.borsdata.se/v1/instruments/97/stockprices?authKey=APIKEY
+
 
 ## Getting started
 1. If you dont have an API KEY you need to Apply for it on [Börsdata MyPage.](https://borsdata.se/en/mypage/api)
